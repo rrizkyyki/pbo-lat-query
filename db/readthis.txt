@@ -1,0 +1,3 @@
+berikut digenerate 1000 random data buku
+import kedalam phpmyadmin
+lalu config .env
